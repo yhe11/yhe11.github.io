@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background: url("file:///Users/mm88648/Documents/GitHub/yhe11.github.io/unit_3/images/landingpage%20header.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+  width: 200px;
+p{
+  font-size: 22px;
+}
